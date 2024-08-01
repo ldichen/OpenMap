@@ -1,0 +1,14 @@
+{
+  "expression": [1, 2],
+  "inputs": [[{}, {}]],
+  "expected": {
+    "compiled": {
+      "result": "success",
+      "isFeatureConstant": true,
+      "isZoomConstant": true,
+      "type": "array<number, 2>"
+    },
+    "outputs": [[1, 2]],
+    "serialized": [1, 2]
+  }
+}
